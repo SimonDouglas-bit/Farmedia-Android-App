@@ -12,4 +12,5 @@ Among the questions this app was intended to answer includes:
  ## Test results
  ### Documented code
  [Code.pdf](https://github.com/SimonDouglas-bit/Farmedia-Android-App/files/9638410/Code.pdf)
-### *Download this repository to find the whole android studio package*
+### *Click on the link below to download the whole android studio package*
+https://mega.nz/folder/LcklkIhC#iUUguALep5MTBQzF61t4Wg
