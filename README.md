@@ -9,4 +9,7 @@ Among the questions this app was intended to answer includes:
     4. What are the equipments and which are the best ones to carry out certain farming activities?
     5. Who is interested with what products?
     6. What payment methods farmers may use and how can the products be delivered?
- ## See the Codes whole package below
+ ## Test results
+ ### Documented code
+ [Code.pdf](https://github.com/SimonDouglas-bit/Farmedia-Android-App/files/9638410/Code.pdf)
+### *Download this repository to find the whole android studio package*
